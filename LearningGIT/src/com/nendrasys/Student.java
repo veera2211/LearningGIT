@@ -14,6 +14,7 @@ public class Student {
         System.out.println(s1.name1);
          String name3= s1.name1+" "+s1.name;
         System.out.println(name3);
+        System.out.println("MEENA");
 
 
     }
